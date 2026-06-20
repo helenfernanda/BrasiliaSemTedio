@@ -1,5 +1,4 @@
 # BrasiliaSemTedio
-Brasília Sem Tédio
 
 Compartilhamento de dicas culturais de Brasília via WhatsApp e Instagram.
 
